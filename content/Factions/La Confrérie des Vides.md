@@ -1,5 +1,5 @@
 ---
-title: La Guilde des Écailles Dorées
+title: La Confrérie des Vides
 ---
 ###  Nom
 - **Nom officiel :**

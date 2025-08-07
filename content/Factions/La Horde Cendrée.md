@@ -1,5 +1,5 @@
 ---
-title: La Guilde des Écailles Dorées
+title: La Horde Cendrée
 ---
 ###  Nom
 - **Nom officiel :**

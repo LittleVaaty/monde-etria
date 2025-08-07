@@ -1,5 +1,5 @@
 ---
-title: La Guilde des Écailles Dorées
+title: Les Royaumes Fracturés de Durak-Zel
 ---
 ###  Nom
 - **Nom officiel :**

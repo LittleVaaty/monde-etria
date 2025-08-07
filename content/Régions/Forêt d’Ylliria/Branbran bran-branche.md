@@ -19,7 +19,7 @@ title: Branbran bran-branche
 - **Valeurs** : Protection de la nature
 
 ## Société et organisation
-- **Type de gouvernement** : Conseil des anciens.
+- **Type de gouvernement** : Conseil des anciens, composé de neufs membres.
 - **Classes sociales** : Il n'y a presque aucune classe sociale.
 - **Forces de l’ordre et armée** : Une petite milice formée de volontaire.
 - **Lois particulières** : Il est interdit de nuire a la nature.
@@ -47,4 +47,7 @@ title: Branbran bran-branche
 ## Pour les joueurs
 - **Rumeurs** : 
 - **PNJ majeurs** : 
+	- Ashur
+	- Michel
+	- Theobaldus (Chef du conseils)
 - **Quêtes potentielles** : 

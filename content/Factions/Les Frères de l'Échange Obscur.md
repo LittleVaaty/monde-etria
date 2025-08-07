@@ -1,5 +1,5 @@
 ---
-title: La Guilde des Écailles Dorées
+title: Les Frères de l'Échange Obscur
 ---
 ###  Nom
 - **Nom officiel :**

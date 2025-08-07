@@ -1,5 +1,5 @@
 ---
-title: La Guilde des Écailles Dorées
+title: <% tp.file.title %>
 ---
 ###  Nom
 - **Nom officiel :**

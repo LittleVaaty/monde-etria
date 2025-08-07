@@ -1,5 +1,5 @@
 ---
-title: La Guilde des Écailles Dorées
+title: Les clans de Walkyria
 ---
 ###  Nom
 - **Nom officiel :**
